@@ -1,4 +1,8 @@
-### Hi there 👋
+![Github Stats](https://github-readme-stats.vercel.app/api?username=daeho0818&show_icons=true)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=daeho0818)](https://solved.ac/profile/daeho0818)
+
+<h3>🌱 I want to relax.🌱</h3>
 
 <!--
 **daeho0818/daeho0818** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
